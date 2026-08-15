@@ -1,0 +1,11 @@
+ticker,name,cik,weight_pct,sic,sic_description
+NVDA,NVIDIA CORP,0001045810,8.1289,3674,Semiconductors & Related Devices
+AAPL,APPLE INC,0000320193,6.6788,3571,Electronic Computers
+MSFT,MICROSOFT CORP,0000789019,5.4984,7372,Services-Prepackaged Software
+AMZN,AMAZON.COM INC,0001018724,3.8661,5961,Retail-Catalog & Mail-Order Houses
+GOOGL,ALPHABET INC CL A,0001652044,3.0253,7370,"Services-Computer Programming, Data Processing, Etc."
+AVGO,BROADCOM INC,0001730168,2.9468,3674,Semiconductors & Related Devices
+GOOG,ALPHABET INC CL C,0001652044,2.4215,7370,"Services-Computer Programming, Data Processing, Etc."
+META,META PLATFORMS INC CLASS A,0001326801,1.9462,7370,"Services-Computer Programming, Data Processing, Etc."
+MU,MICRON TECHNOLOGY INC,0000723125,1.5955,3674,Semiconductors & Related Devices
+JPM,JPMORGAN CHASE + CO,0000019617,1.4492,6021,National Commercial Banks
